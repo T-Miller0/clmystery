@@ -12,7 +12,7 @@ Checking Your Answer on Windows:
 
   This will give you a long code of numbers and letters. Copy and paste the following command, replace My Code with the code you got, and execute it:
 
-  grep -qi "My Code" encoded && echo CORRECT\! GREAT WORK, GUMSHOE. || echo SORRY, TRY AGAIN.
+  .
 
 Seeing The Answer:
 
